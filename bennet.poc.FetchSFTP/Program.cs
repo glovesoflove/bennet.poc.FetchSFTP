@@ -6,7 +6,7 @@ namespace bennet.poc.FetchSFTP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Goodbye World!");
         }
     }
 }
